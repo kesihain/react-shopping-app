@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-shopping-app
+This is a simple challenge to build a shopping app using react based on given data.
+
+#### How to run ?
+1. Download zip or clone repo
+2. Install dependencies by running (npm install)
+3. Run (npm start) to start
+
 
 ## Available Scripts
 
